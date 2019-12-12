@@ -132,4 +132,4 @@ parameters:
   from: '[a-zA-Z0-9]{20}'
   generate: expression
   name: APP_NAME
-  value: legales-web
+  value: telefonica-dev
