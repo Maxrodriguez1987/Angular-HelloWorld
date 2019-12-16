@@ -1,5 +1,0 @@
-runCIPipeline(application: env.APP_NAME,
-             agent: "nodejs",
-             compileCommands: "npm install && npm run build",
-             testCommands: "",
-             artifactsDir: "./dist")
